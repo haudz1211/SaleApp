@@ -1,0 +1,16 @@
+{%extends "layout/base.html"%}
+{%block title%}ĐĂNG NHẬP{%endblock%}
+{%block content%}
+<form method="post" action="\login">
+    <h1 class = "text-center text-info mt-1">ĐĂNG NHẬP</h1>
+    <div class="form-floating mb-3 mt-3">
+        <input type="text" class="form-control" id="username" placeholder="Enter username" name="username">
+        <label for="username">Email</label>
+    </div>
+
+    <div class="form-floating mt-3 mb-3">
+        <input type="password" class="form-control" id="password" placeholder="Enter password" name="password">
+        <label for="password">Password</label>
+    </div>
+</form>
+{%endblock%}

@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Iphone 12 Pro",
+    "price": 12000000,
+    "image": "https://res.cloudinary.com/dgeyq5bpg/image/upload/v1729843473/zkac4egeyhm3yikfyxts.jpg",
+    "category_id": 1
+  },
+  {
+    "id": 2,
+    "name": "Iphone 12 Promax",
+    "price": 16000000,
+     "image": "https://res.cloudinary.com/dgeyq5bpg/image/upload/v1729844382/apple-iphone-12-pro-max-pacificblue-10132020_yqreix.webp",
+    "category_id": 1
+  },
+  {
+    "id": 3,
+    "name": "SamSung Galaxy S24 ultra",
+    "price": 30000000,
+     "image": "https://res.cloudinary.com/dgeyq5bpg/image/upload/v1729847397/51Qf5zZ2BZL._AC_UF894_1000_QL80__cudlfx.jpg",
+    "category_id": 1
+  },
+  {
+    "id": 4,
+    "name": "Oppo Reno 10",
+    "price": 12000000,
+     "image": "https://res.cloudinary.com/dgeyq5bpg/image/upload/v1729844742/happi_reno__bgwjzx.webp",
+    "category_id": 1
+  },
+  {
+    "id": 5,
+    "name": "Laptop Asus TUF15",
+    "price": 21000000,
+    "image": "https://res.cloudinary.com/dgeyq5bpg/image/upload/v1729846737/f93bdd99-47d7-4f97-8800-5a83d0bd46a6_tms6ew.png",
+    "category_id": 3
+  },
+  {
+    "id": 5,
+    "name": "Laptop Asus TUF15",
+    "price": 21000000,
+    "image": "https://res.cloudinary.com/dgeyq5bpg/image/upload/v1729846737/f93bdd99-47d7-4f97-8800-5a83d0bd46a6_tms6ew.png",
+    "category_id": 3
+  },
+  {
+    "id": 5,
+    "name": "Laptop Asus TUF15",
+    "price": 21000000,
+    "image": "https://res.cloudinary.com/dgeyq5bpg/image/upload/v1729846737/f93bdd99-47d7-4f97-8800-5a83d0bd46a6_tms6ew.png",
+    "category_id": 3
+  },
+  {
+    "id": 5,
+    "name": "Laptop Asus TUF15",
+    "price": 21000000,
+    "image": "https://res.cloudinary.com/dgeyq5bpg/image/upload/v1729846737/f93bdd99-47d7-4f97-8800-5a83d0bd46a6_tms6ew.png",
+    "category_id": 3
+  },
+  {
+    "id": 5,
+    "name": "Laptop Asus TUF15",
+    "price": 21000000,
+    "image": "https://res.cloudinary.com/dgeyq5bpg/image/upload/v1729846737/f93bdd99-47d7-4f97-8800-5a83d0bd46a6_tms6ew.png",
+    "category_id": 3
+  },
+  {
+    "id": 5,
+    "name": "Laptop Asus TUF15",
+    "price": 21000000,
+    "image": "https://res.cloudinary.com/dgeyq5bpg/image/upload/v1729846737/f93bdd99-47d7-4f97-8800-5a83d0bd46a6_tms6ew.png",
+    "category_id": 3
+  }
+]
