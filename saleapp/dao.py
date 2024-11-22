@@ -16,10 +16,14 @@ def load_products(q=None, cate_id=None, page = None):
 
     if page:
         page_size = app.config["PAGE_SIZE"]
-        start = (       int(page - 1)) * page_size
+        start = (int(page - 1)) * page_size
         query = query.slice(start, start+page_size)
 
-    return query
+    return query.all()
+
+
+def count_product():
+    return Product.query.count()
 
 
 def load_product_by_id(id):

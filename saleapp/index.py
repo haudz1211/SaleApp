@@ -9,8 +9,9 @@ def index():
     q = request.args.get("q")
     cate_id = request.args.get("category_id")
     page = request.args.get("page")
-    products = dao.load_products(q, cate_id, page)
-    return render_template("index.html", products=products)
+    pages = dao.count_product()
+    products = dao.load_products(q =q , cate_id= cate_id, page= page)
+    return render_template("index.html", products=products, pages = (int) (pages/app.config["PAGE_SIZE"]))
 
 
 @app.route("/products/<int:id>")
