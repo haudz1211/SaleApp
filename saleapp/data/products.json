@@ -33,40 +33,21 @@
     "price": 21000000,
     "image": "https://res.cloudinary.com/dgeyq5bpg/image/upload/v1729846737/f93bdd99-47d7-4f97-8800-5a83d0bd46a6_tms6ew.png",
     "category_id": 3
-  },
+  }
+  ,
   {
-    "id": 5,
-    "name": "Laptop Asus TUF15",
-    "price": 21000000,
-    "image": "https://res.cloudinary.com/dgeyq5bpg/image/upload/v1729846737/f93bdd99-47d7-4f97-8800-5a83d0bd46a6_tms6ew.png",
-    "category_id": 3
-  },
+    "id": 6,
+    "name": "Samsung Galaxy Tab S10 Ultra",
+    "price": 33000000,
+    "image": "https://res.cloudinary.com/dgeyq5bpg/image/upload/v1732263537/levant-galaxy-tab-s10-ultra-sm-x920-sm-x926bzaamea-543638827_vr1ham.png",
+    "category_id": 2
+  }
+  ,
   {
-    "id": 5,
-    "name": "Laptop Asus TUF15",
-    "price": 21000000,
-    "image": "https://res.cloudinary.com/dgeyq5bpg/image/upload/v1729846737/f93bdd99-47d7-4f97-8800-5a83d0bd46a6_tms6ew.png",
-    "category_id": 3
-  },
-  {
-    "id": 5,
-    "name": "Laptop Asus TUF15",
-    "price": 21000000,
-    "image": "https://res.cloudinary.com/dgeyq5bpg/image/upload/v1729846737/f93bdd99-47d7-4f97-8800-5a83d0bd46a6_tms6ew.png",
-    "category_id": 3
-  },
-  {
-    "id": 5,
-    "name": "Laptop Asus TUF15",
-    "price": 21000000,
-    "image": "https://res.cloudinary.com/dgeyq5bpg/image/upload/v1729846737/f93bdd99-47d7-4f97-8800-5a83d0bd46a6_tms6ew.png",
-    "category_id": 3
-  },
-  {
-    "id": 5,
-    "name": "Laptop Asus TUF15",
-    "price": 21000000,
-    "image": "https://res.cloudinary.com/dgeyq5bpg/image/upload/v1729846737/f93bdd99-47d7-4f97-8800-5a83d0bd46a6_tms6ew.png",
-    "category_id": 3
+    "id": 7,
+    "name": "iPad Pro M4",
+    "price": 33000000,
+    "image": "https://res.cloudinary.com/dgeyq5bpg/image/upload/v1732263691/MWR53_iyogcq.jpg",
+    "category_id": 2
   }
 ]
